@@ -1,5 +1,3 @@
-Johnny Chen
-
 raid.c
 
 Commands to run it: 
